@@ -265,7 +265,7 @@ export function Home() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white/10"
+                className="border-white bg-transparent text-white hover:bg-white/10 hover:text-white"
               >
                 Ver Precios
               </Button>
