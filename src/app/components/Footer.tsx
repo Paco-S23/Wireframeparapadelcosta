@@ -9,11 +9,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img 
-                src="/src/imports/image.png" 
-                alt="Padel Costa Logo" 
-                className="h-10 w-auto"
-              />
+              <span className="text-2xl font-semibold text-white">Padel Costa</span>
             </div>
             <p className="text-sm text-gray-400">
               El mejor club de pádel de la costa. Canchas de primera calidad y
